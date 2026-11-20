@@ -1,0 +1,5 @@
+# Usage local uniquement (la version en ligne utilise environment.yml)
+ipywidgets>=8
+matplotlib>=3.6
+openpyxl>=3.1
+voila
