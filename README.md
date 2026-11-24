@@ -3,7 +3,7 @@
 Outil web gratuit pour produire les graphiques des résultats RE2020
 (Bbio, CEP, CEPnr, DH, ICénergie, ICconstruction).
 
-👉 **Ouvrir l'outil :** https://ciol894.github.io/NOM_DU_DEPOT/voici/render/RE2020_BulletGraphs.html
+👉 **Ouvrir l'outil :** https://ciol894.github.io/RE2020-web/voici/render/RE2020_BulletGraphs.html
 
 Tout est calculé dans le navigateur (Voici / WebAssembly) : aucune donnée de projet n'est
 envoyée sur un serveur. Pensez à télécharger exports et JSON avant de fermer la page.
